@@ -4,7 +4,7 @@
 ---
 
 ## **📌 Objetivo**  
-Busco minha primeira oportunidade na área de tecnologia como **Desenvolvedora Front-end Júnior**, aplicando conhecimentos em HTML, CSS, JavaScript e metodologias ágeis. Tenho também formação em análise de dados, o que me permite agregar uma visão analítica aos projetos. Comprometida em aprender continuamente e contribuir em equipes inovadoras.  
+Busco minha primeira oportunidade na área de tecnologia como **Desenvolvedora Front-end Júnior**, para aplicar e aprimorar conhecimentos em HTML, CSS, JavaScript e metodologias ágeis. Tenho também formação em análise de dados, o que me permite agregar uma visão analítica aos projetos. Estou comprometida em aprender continuamente e espero desafios em que eu possa contribuir com soluções inovadoras.
 
 ---
 
@@ -47,8 +47,8 @@ Busco minha primeira oportunidade na área de tecnologia como **Desenvolvedora F
 🔗 **GitHub:** [github.com/simone-rocha](https://github.com/simone-rocha)  
 1. **Calculadora de Partidas Rankeadas** (JavaScript)  
 2. **Dashboard de Vendas** (Power BI)  
-3. **Clone de Interface Macbook Air** (HTML/CSS/JS)  [github.com/simone-rocha](https://github.com/simone-rocha/start-week-macbook-page)
-
+3. **Clone da homepage do Macbook Air** (HTML/CSS/JS)  [🔗 Visitar Página](https://simone-rocha.github.io/start-week-macbook-page/)
+   
 ---
 
 ## **🌟 Diferenciais**  
